@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyci12)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyci12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-
 <div align=center><img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=yyci12%20&⌨fontSize=90" /></div>
 
 <!---->
